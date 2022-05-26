@@ -1,0 +1,27 @@
+
+
+.container{
+ height: 50vh;
+ width: 30%;
+ background: green;
+ text-align: center;
+ padding: 20px;
+ color: white;
+ font-size: 20px;
+ font-weight: bold;
+ border-radius: 10px;
+}
+
+.heading-1{
+    color: goldenrod;
+}
+
+button{
+    margin: 5px;
+    background-color: goldenrod;
+    color: green;
+    padding: 5px 20px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
