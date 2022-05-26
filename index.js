@@ -39,6 +39,7 @@ function newCards(){
     
 
 }
+  console.log(newCard())
 
 function reset(){
     cardEl.textContent = "Cards: " + 0
